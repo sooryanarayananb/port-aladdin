@@ -1,2 +1,3 @@
-# port-aladdin
-A simple port scanner to check for open ports in a machine using Go Lang
+# Port-aladdin
+
+Port Aladdin is a simple port scanner which scans the most vulnerable ports that are exploited.
